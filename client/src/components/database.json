@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "title": "Mens T-Shirt",
+      "categories": ["Mens", "Mens Tops"],
+      "description": "Test",
+      "specifics": [
+        "This is our best seller for a reason. Relaxed, tailored and ultra-comfortable, you'll love the way you look in this durable, reliable classic.",
+        "Brand: Fruit of the Loom | Product ID: 3930",
+        "100% pre-shrunk cotton that is USA grown and sustainably sourced. (heather gray color is 90% cotton/10% polyester, light heather gray is 98% cotton/2% polyester, heather black and safety yellow are 50% cotton/50% polyester) | Fabric Weight: 5.0 oz (mid-weight)",
+        "Double-stitched seams at shoulder, sleeve, collar and waist",
+        "Tear-away label for added comfort",
+        "Imported; processed and printed in the U.S.A.",
+        "Size 3XL available for colors: white, black, navy, royal, bright green, red, light heather gray, forest green, orange, burgundy, purple, heather gray, charcoal, heather black, turquoise, denim, yellow, aquatic blue",
+        "Size 4XL available for colors: white, black, navy, royal, red, light heather gray, forest green, orange, heather gray, charcoal, heather black, denim, yellow, aquatic blue",
+        "Size 5XL and 6XL available for colors: white, black, navy, royal, red, light heather gray, forest green, heather gray, charcoal, heather black"
+      ],
+      "img": "/images/mens_t_shirt.JPG",
+      "link": "https://fat-dog-club.myspreadshop.com.au/abstract+circles+pattern-A64d94a04230a027f27cfd90b?productType=210&sellable=yrdpD5zbw0S3lDLyVM1r-210-7&appearance=2"
+    },
+
+    {
+      "title": "Mens T-Shirt",
+      "categories": ["Mens", "Mens Tops"],
+      "description": "Test",
+      "specific": [
+        "This is our best seller for a reason. Relaxed, tailored and ultra-comfortable, you'll love the way you look in this durable, reliable classic.",
+        "Brand: Fruit of the Loom | Product ID: 3930",
+        "100% pre-shrunk cotton that is USA grown and sustainably sourced. (heather gray color is 90% cotton/10% polyester, light heather gray is 98% cotton/2% polyester, heather black and safety yellow are 50% cotton/50% polyester) | Fabric Weight: 5.0 oz (mid-weight)",
+        "Double-stitched seams at shoulder, sleeve, collar and waist",
+        "Tear-away label for added comfort",
+        "Imported; processed and printed in the U.S.A.",
+        "Size 3XL available for colors: white, black, navy, royal, bright green, red, light heather gray, forest green, orange, burgundy, purple, heather gray, charcoal, heather black, turquoise, denim, yellow, aquatic blue",
+        "Size 4XL available for colors: white, black, navy, royal, red, light heather gray, forest green, orange, heather gray, charcoal, heather black, denim, yellow, aquatic blue",
+        "Size 5XL and 6XL available for colors: white, black, navy, royal, red, light heather gray, forest green, heather gray, charcoal, heather black"
+      ],
+      "img": "/images/mens_t_shirt.JPG",
+      "link": "https://fat-dog-club.myspreadshop.com.au/abstract+circles+pattern-A64d94a04230a027f27cfd90b?productType=210&sellable=yrdpD5zbw0S3lDLyVM1r-210-7&appearance=2"
+    }
+  ]
+}

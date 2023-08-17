@@ -23,23 +23,11 @@
 	<ul>
 		<li><span class="bold">-</span> EmailJS for email handling</li>
 		<li>
-			<span class="bold">-</span> Printify for on demand printing, display products from Printify store on site
+			<span class="bold">-</span> Spreadshirt for on demand printing, display products from Spreadshirt store on
+			site
 		</li>
 		<li><span class="bold">-</span> Svelte for the website framework</li>
 		<li><span class="bold">-</span> Generate images in Midjourney for products</li>
 		<li><span class="bold">-</span> Attempt to make it modular for easy setup for other similar sites</li>
 	</ul>
 </div>
-
-<style>
-	.bold {
-		color: var(--color-theme-1);
-		font-weight: 900;
-	}
-
-	ul {
-		list-style-type: none;
-		margin: 0;
-		padding: 0;
-	}
-</style>

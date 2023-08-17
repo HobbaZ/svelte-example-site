@@ -143,7 +143,6 @@
 
 	.errorMsg {
 		color: red;
-
 		height: 10px;
 	}
 

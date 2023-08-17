@@ -29,7 +29,6 @@
 
 	footer a {
 		font-size: 25px;
-		color: var(--color-text);
 		padding-left: 10px;
 		font-weight: bold;
 	}

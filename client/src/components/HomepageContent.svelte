@@ -1,5 +1,7 @@
 <script>
     import SiteName from './SiteName.svelte'
+
+    import Products from './Products.svelte'
 </script>
 
 <div>
@@ -9,8 +11,9 @@
     <p>Your next clothing sensation</p>
 </div>
 
-<div>
 
+<div>
+    <Products />
 </div>
 
 <style>

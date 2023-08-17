@@ -9,7 +9,7 @@
   --color-bg-2: hsl(224, 44%, 95%);
   --color-theme-1: #ff3e00;
   --color-theme-2: #4075a6;
-  --color-text: rgba(0, 0, 0, 0.7);
+  --color-text: rgb(255, 255, 255);
   --column-width: 42rem;
   --column-margin-top: 4rem;
   font-family: var(--font-body);
@@ -22,17 +22,23 @@ body {
   background-attachment: fixed;
   background-color: var(--color-bg-1);
   background-size: 100vw 100vh;
-  background-image: radial-gradient(
-      50% 50% at 50% 50%,
-      rgba(255, 255, 255, 0.75) 0%,
-      rgba(255, 255, 255, 0) 100%
-    ),
+  background-image: linear-gradient(rgb(47, 1, 65), rgb(23, 1, 102)),
     linear-gradient(
       180deg,
       var(--color-bg-0) 0%,
       var(--color-bg-1) 15%,
       var(--color-bg-2) 50%
     );
+}
+
+h1,
+h2,
+h3,
+footer,
+footer a,
+p,
+li {
+  color: var(--color-text);
 }
 
 h1,
@@ -65,26 +71,6 @@ a:hover {
 .btn:hover {
   background-color: var(--color-theme-2);
   color: var(--color-bg-2);
-}
-
-h1 {
-  font-size: 2rem;
-  text-align: center;
-}
-
-h2 {
-  font-size: 1rem;
-}
-
-pre {
-  font-size: 16px;
-  font-family: var(--font-mono);
-  background-color: rgba(255, 255, 255, 0.45);
-  border-radius: 3px;
-  box-shadow: 2px 2px 6px rgb(255 255 255 / 25%);
-  padding: 0.5em;
-  overflow-x: auto;
-  color: var(--color-text);
 }
 
 .text-column {
@@ -122,4 +108,15 @@ button:focus:not(:focus-visible) {
   position: absolute;
   width: 1px;
   white-space: nowrap;
+}
+
+.bold {
+  color: var(--color-theme-1);
+  font-weight: 900;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }

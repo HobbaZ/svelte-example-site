@@ -1,6 +1,5 @@
 # svelte-example-site
 
-A basic example of a svelte framework site
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
 ![License](https://img.shields.io/badge/Made%20with-Svelte-orange.svg)
 [![Github Commits](https://img.shields.io/github/commit-activity/w/HobbaZ/svelte-example-site)](https://github.com/HobbaZ/svelte-example-site/commits)
@@ -25,6 +24,8 @@ How to use Svelte.
 
 ## Deployment
 
+Still in development.
+
 ## Table of Contents
 
 - [Description](#description)
@@ -40,6 +41,9 @@ How to use Svelte.
 - [Questions](#questions)
 
 ## User Story
+
+I WANT to learn how to use Svelte
+SO THAT I can make a basic website with it
 
 ## Screenshots
 
@@ -61,6 +65,7 @@ How to use Svelte.
 
 - Svelte
 - Bootstrap
+- JSON
 
 ## Contributors
 

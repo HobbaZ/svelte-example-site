@@ -3,7 +3,7 @@
     {
       "title": "Mens T-Shirt",
       "categories": ["Mens"],
-      "description": "Test",
+      "description": "White logo mens T shirt in selected colours.",
       "specifics": [
         "This is our best seller for a reason. Relaxed, tailored and ultra-comfortable, you'll love the way you look in this durable, reliable classic.",
         "Brand: Fruit of the Loom | Product ID: 3930",
@@ -15,14 +15,33 @@
         "Size 4XL available for colors: white, black, navy, royal, red, light heather gray, forest green, orange, heather gray, charcoal, heather black, denim, yellow, aquatic blue",
         "Size 5XL and 6XL available for colors: white, black, navy, royal, red, light heather gray, forest green, heather gray, charcoal, heather black"
       ],
-      "img": "/images/mens_t_shirt.JPG",
+      "img": "/images/mens_t_shirt_logo_white.JPG",
+      "link": "https://fat-dog-club.myspreadshop.com.au/abstract+circles+pattern-A64d94a04230a027f27cfd90b?productType=210&sellable=yrdpD5zbw0S3lDLyVM1r-210-7&appearance=2"
+    },
+
+    {
+      "title": "Mens T-Shirt",
+      "categories": ["Mens"],
+      "description": "Black logo mens T shirt in selected colours.",
+      "specifics": [
+        "This is our best seller for a reason. Relaxed, tailored and ultra-comfortable, you'll love the way you look in this durable, reliable classic.",
+        "Brand: Fruit of the Loom | Product ID: 3930",
+        "100% pre-shrunk cotton that is USA grown and sustainably sourced. (heather gray color is 90% cotton/10% polyester, light heather gray is 98% cotton/2% polyester, heather black and safety yellow are 50% cotton/50% polyester) | Fabric Weight: 5.0 oz (mid-weight)",
+        "Double-stitched seams at shoulder, sleeve, collar and waist",
+        "Tear-away label for added comfort",
+        "Imported; processed and printed in the U.S.A.",
+        "Size 3XL available for colors: white, black, navy, royal, bright green, red, light heather gray, forest green, orange, burgundy, purple, heather gray, charcoal, heather black, turquoise, denim, yellow, aquatic blue",
+        "Size 4XL available for colors: white, black, navy, royal, red, light heather gray, forest green, orange, heather gray, charcoal, heather black, denim, yellow, aquatic blue",
+        "Size 5XL and 6XL available for colors: white, black, navy, royal, red, light heather gray, forest green, heather gray, charcoal, heather black"
+      ],
+      "img": "/images/mens_t_shirt_logo_black.JPG",
       "link": "https://fat-dog-club.myspreadshop.com.au/abstract+circles+pattern-A64d94a04230a027f27cfd90b?productType=210&sellable=yrdpD5zbw0S3lDLyVM1r-210-7&appearance=2"
     },
 
     {
       "title": "Mens Long Sleeve T-Shirt",
       "categories": ["Mens"],
-      "description": "Test",
+      "description": "White logo mens long sleeved T shirt in selected colours.",
       "specific": [
         "This is our best seller for a reason. Relaxed, tailored and ultra-comfortable, you'll love the way you look in this durable, reliable classic.",
         "Brand: Fruit of the Loom | Product ID: 3930",
@@ -34,14 +53,33 @@
         "Size 4XL available for colors: white, black, navy, royal, red, light heather gray, forest green, orange, heather gray, charcoal, heather black, denim, yellow, aquatic blue",
         "Size 5XL and 6XL available for colors: white, black, navy, royal, red, light heather gray, forest green, heather gray, charcoal, heather black"
       ],
-      "img": "/images/mens_long_sleeve.JPG",
+      "img": "/images/mens_long_sleeve_logo_white.JPG",
+      "link": "https://fat-dog-club.myspreadshop.com.au/abstract+circles+pattern-A64d94a04230a027f27cfd90b?productType=210&sellable=yrdpD5zbw0S3lDLyVM1r-210-7&appearance=2"
+    },
+
+    {
+      "title": "Mens Long Sleeve T-Shirt",
+      "categories": ["Mens"],
+      "description": "Black logo mens long sleeved T shirt in selected colours.",
+      "specific": [
+        "This is our best seller for a reason. Relaxed, tailored and ultra-comfortable, you'll love the way you look in this durable, reliable classic.",
+        "Brand: Fruit of the Loom | Product ID: 3930",
+        "100% pre-shrunk cotton that is USA grown and sustainably sourced. (heather gray color is 90% cotton/10% polyester, light heather gray is 98% cotton/2% polyester, heather black and safety yellow are 50% cotton/50% polyester) | Fabric Weight: 5.0 oz (mid-weight)",
+        "Double-stitched seams at shoulder, sleeve, collar and waist",
+        "Tear-away label for added comfort",
+        "Imported; processed and printed in the U.S.A.",
+        "Size 3XL available for colors: white, black, navy, royal, bright green, red, light heather gray, forest green, orange, burgundy, purple, heather gray, charcoal, heather black, turquoise, denim, yellow, aquatic blue",
+        "Size 4XL available for colors: white, black, navy, royal, red, light heather gray, forest green, orange, heather gray, charcoal, heather black, denim, yellow, aquatic blue",
+        "Size 5XL and 6XL available for colors: white, black, navy, royal, red, light heather gray, forest green, heather gray, charcoal, heather black"
+      ],
+      "img": "/images/mens_long_sleeve_logo_black.JPG",
       "link": "https://fat-dog-club.myspreadshop.com.au/abstract+circles+pattern-A64d94a04230a027f27cfd90b?productType=210&sellable=yrdpD5zbw0S3lDLyVM1r-210-7&appearance=2"
     },
 
     {
       "title": "Womens T-Shirt",
       "categories": ["Womens"],
-      "description": "Test",
+      "description": "White logo womens T shirt in selected colours.",
       "specific": [
         "This is our best seller for a reason. Relaxed, tailored and ultra-comfortable, you'll love the way you look in this durable, reliable classic.",
         "Brand: Fruit of the Loom | Product ID: 3930",
@@ -53,14 +91,33 @@
         "Size 4XL available for colors: white, black, navy, royal, red, light heather gray, forest green, orange, heather gray, charcoal, heather black, denim, yellow, aquatic blue",
         "Size 5XL and 6XL available for colors: white, black, navy, royal, red, light heather gray, forest green, heather gray, charcoal, heather black"
       ],
-      "img": "/images/womens_t_shirt.png",
+      "img": "/images/womens_t_shirt_logo_white.JPG",
+      "link": "https://fat-dog-club.myspreadshop.com.au/abstract+circles+pattern-A64d94a04230a027f27cfd90b?productType=210&sellable=yrdpD5zbw0S3lDLyVM1r-210-7&appearance=2"
+    },
+
+    {
+      "title": "Womens T-Shirt",
+      "categories": ["Womens"],
+      "description": "Black logo womens T shirt in selected colours.",
+      "specific": [
+        "This is our best seller for a reason. Relaxed, tailored and ultra-comfortable, you'll love the way you look in this durable, reliable classic.",
+        "Brand: Fruit of the Loom | Product ID: 3930",
+        "100% pre-shrunk cotton that is USA grown and sustainably sourced. (heather gray color is 90% cotton/10% polyester, light heather gray is 98% cotton/2% polyester, heather black and safety yellow are 50% cotton/50% polyester) | Fabric Weight: 5.0 oz (mid-weight)",
+        "Double-stitched seams at shoulder, sleeve, collar and waist",
+        "Tear-away label for added comfort",
+        "Imported; processed and printed in the U.S.A.",
+        "Size 3XL available for colors: white, black, navy, royal, bright green, red, light heather gray, forest green, orange, burgundy, purple, heather gray, charcoal, heather black, turquoise, denim, yellow, aquatic blue",
+        "Size 4XL available for colors: white, black, navy, royal, red, light heather gray, forest green, orange, heather gray, charcoal, heather black, denim, yellow, aquatic blue",
+        "Size 5XL and 6XL available for colors: white, black, navy, royal, red, light heather gray, forest green, heather gray, charcoal, heather black"
+      ],
+      "img": "/images/womens_t_shirt_logo_black.JPG",
       "link": "https://fat-dog-club.myspreadshop.com.au/abstract+circles+pattern-A64d94a04230a027f27cfd90b?productType=210&sellable=yrdpD5zbw0S3lDLyVM1r-210-7&appearance=2"
     },
 
     {
       "title": "Womens Hoodie",
       "categories": ["Womens"],
-      "description": "Test",
+      "description": "White logo womens hoodie in selected colours.",
       "specific": [
         "This is our best seller for a reason. Relaxed, tailored and ultra-comfortable, you'll love the way you look in this durable, reliable classic.",
         "Brand: Fruit of the Loom | Product ID: 3930",
@@ -72,14 +129,33 @@
         "Size 4XL available for colors: white, black, navy, royal, red, light heather gray, forest green, orange, heather gray, charcoal, heather black, denim, yellow, aquatic blue",
         "Size 5XL and 6XL available for colors: white, black, navy, royal, red, light heather gray, forest green, heather gray, charcoal, heather black"
       ],
-      "img": "/images/womens_hoodie.JPG",
+      "img": "/images/womens_hoodie_logo_white.JPG",
+      "link": "https://fat-dog-club.myspreadshop.com.au/abstract+circles+pattern-A64d94a04230a027f27cfd90b?productType=210&sellable=yrdpD5zbw0S3lDLyVM1r-210-7&appearance=2"
+    },
+
+    {
+      "title": "Womens Hoodie",
+      "categories": ["Womens"],
+      "description": "Black logo womens hoodie in selected colours.",
+      "specific": [
+        "This is our best seller for a reason. Relaxed, tailored and ultra-comfortable, you'll love the way you look in this durable, reliable classic.",
+        "Brand: Fruit of the Loom | Product ID: 3930",
+        "100% pre-shrunk cotton that is USA grown and sustainably sourced. (heather gray color is 90% cotton/10% polyester, light heather gray is 98% cotton/2% polyester, heather black and safety yellow are 50% cotton/50% polyester) | Fabric Weight: 5.0 oz (mid-weight)",
+        "Double-stitched seams at shoulder, sleeve, collar and waist",
+        "Tear-away label for added comfort",
+        "Imported; processed and printed in the U.S.A.",
+        "Size 3XL available for colors: white, black, navy, royal, bright green, red, light heather gray, forest green, orange, burgundy, purple, heather gray, charcoal, heather black, turquoise, denim, yellow, aquatic blue",
+        "Size 4XL available for colors: white, black, navy, royal, red, light heather gray, forest green, orange, heather gray, charcoal, heather black, denim, yellow, aquatic blue",
+        "Size 5XL and 6XL available for colors: white, black, navy, royal, red, light heather gray, forest green, heather gray, charcoal, heather black"
+      ],
+      "img": "/images/womens_hoodie_logo_black.JPG",
       "link": "https://fat-dog-club.myspreadshop.com.au/abstract+circles+pattern-A64d94a04230a027f27cfd90b?productType=210&sellable=yrdpD5zbw0S3lDLyVM1r-210-7&appearance=2"
     },
 
     {
       "title": "Baseball Cap",
       "categories": ["Accessories"],
-      "description": "Test",
+      "description": "White logo flexifit baseball cap in selected colours.",
       "specific": [
         "This is our best seller for a reason. Relaxed, tailored and ultra-comfortable, you'll love the way you look in this durable, reliable classic.",
         "Brand: Fruit of the Loom | Product ID: 3930",
@@ -91,7 +167,26 @@
         "Size 4XL available for colors: white, black, navy, royal, red, light heather gray, forest green, orange, heather gray, charcoal, heather black, denim, yellow, aquatic blue",
         "Size 5XL and 6XL available for colors: white, black, navy, royal, red, light heather gray, forest green, heather gray, charcoal, heather black"
       ],
-      "img": "/images/baseball_cap.JPG",
+      "img": "/images/baseball_cap_logo_white (2).png",
+      "link": "https://fat-dog-club.myspreadshop.com.au/abstract+circles+pattern-A64d94a04230a027f27cfd90b?productType=210&sellable=yrdpD5zbw0S3lDLyVM1r-210-7&appearance=2"
+    },
+
+    {
+      "title": "Baseball Cap",
+      "categories": ["Accessories"],
+      "description": "Black logo flexifit baseball cap in selected colours.",
+      "specific": [
+        "This is our best seller for a reason. Relaxed, tailored and ultra-comfortable, you'll love the way you look in this durable, reliable classic.",
+        "Brand: Fruit of the Loom | Product ID: 3930",
+        "100% pre-shrunk cotton that is USA grown and sustainably sourced. (heather gray color is 90% cotton/10% polyester, light heather gray is 98% cotton/2% polyester, heather black and safety yellow are 50% cotton/50% polyester) | Fabric Weight: 5.0 oz (mid-weight)",
+        "Double-stitched seams at shoulder, sleeve, collar and waist",
+        "Tear-away label for added comfort",
+        "Imported; processed and printed in the U.S.A.",
+        "Size 3XL available for colors: white, black, navy, royal, bright green, red, light heather gray, forest green, orange, burgundy, purple, heather gray, charcoal, heather black, turquoise, denim, yellow, aquatic blue",
+        "Size 4XL available for colors: white, black, navy, royal, red, light heather gray, forest green, orange, heather gray, charcoal, heather black, denim, yellow, aquatic blue",
+        "Size 5XL and 6XL available for colors: white, black, navy, royal, red, light heather gray, forest green, heather gray, charcoal, heather black"
+      ],
+      "img": "/images/baseball_cap_logo_black.JPG",
       "link": "https://fat-dog-club.myspreadshop.com.au/abstract+circles+pattern-A64d94a04230a027f27cfd90b?productType=210&sellable=yrdpD5zbw0S3lDLyVM1r-210-7&appearance=2"
     }
   ]

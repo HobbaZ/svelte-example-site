@@ -67,6 +67,8 @@
     img {
         border-radius: 5px;
         background: none;
+        width: 90%;
+        height: 90%;
     }
 
     h2,

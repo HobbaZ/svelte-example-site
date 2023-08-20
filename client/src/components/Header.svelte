@@ -1,14 +1,17 @@
 <script>
 	import { page } from '$app/stores';
 	import SiteName from './SiteName.svelte';
+	let logo = '/images/Fat Dog Club Logo White Text.png'
 </script>
 
 <header>
-	<div class="corner">
-		<a href="/">
-			<siteName />
+
+	<div class="mainImage">
+		<a href="/home">
+			<img src="{logo}" alt="fat dog club logo" />
 		</a>
 	</div>
+
 
 	<nav>
 
@@ -104,5 +107,14 @@
 
 	a:hover {
 		color: var(--color-theme-1);
+	}
+
+	.mainImage {
+		object-fit: contain;
+	}
+
+	img {
+		width: 10%;
+		height: fit-content;
 	}
 </style>

@@ -50,7 +50,7 @@
                 {/each}
             </ul>
             {/if}-->
-                <a href="{link}" type="button" class="btn w-100">Purchase</a>
+                <a href="{link}" type="button" class="btn w-100">More Information</a>
             </div>
         </div>
         {/each}
@@ -59,16 +59,21 @@
 
 <style>
     .card {
-        background-color: rgba(255, 255, 255, 0.5);
-
+        background-color: rgba(255, 255, 255, 0);
         padding: 10px;
     }
 
+    .card:hover {
+        background-color: rgba(255, 255, 255, 0.212);
+    }
+
     img {
-        border-radius: 5px;
-        background: none;
-        width: 90%;
-        height: 90%;
+        width: 100%;
+        height: 100%;
+    }
+
+    p {
+        text-align: left;
     }
 
     h2,
@@ -78,8 +83,8 @@
     }
 
     .card-img-top {
-        width: 75%;
-        height: 75%;
+        width: 90%;
+        height: 90%;
         object-fit: contain;
         margin: auto;
     }

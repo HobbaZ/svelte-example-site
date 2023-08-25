@@ -1,4 +1,4 @@
-<script context="module">
+<script>
 	import SiteName from '../../components/SiteName.svelte';
 	let nameInput = '';
 	let emailInput = '';
@@ -8,26 +8,28 @@
 		/^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
 	let emailSent = false;
 	let msg;
+	/*async function sendEmail({ }) {
 
-	export let data;
-
-	/*async function onSubmit() {
-		const toEmail = emailInput.value;
-		const response = await fetch('/emails', {
-			method: 'POST',
-			body: JSON.stringify({ toEmail }),
-			headers: {
-				'Content-Type': 'application/json'
-			}
-		});
+		const response = await fetch('/emails'),
 		const msg = await response.json();
 		console.log(msg);
 	}*/
 
 	async function sendEmail() {
-		const response = await fetch('/emails');
-		const msg = await response.json();
-		console.log(msg);
+		try {
+			const response = await fetch('/emails', {
+				method: "POST",
+				body: JSON.stringify({ emailInput }),
+				headers: {
+					"Content-Type": "application/json",
+				},
+			});
+			const msg = await response.json();
+			console.log(msg)
+
+		} catch (err) {
+			console.error('Error sending email:', err);
+		}
 	}
 </script>
 

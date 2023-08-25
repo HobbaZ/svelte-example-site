@@ -64,6 +64,8 @@ SO THAT I can make a basic website with it
 ## Technology
 
 - Svelte
+- SendGrid
+- Midjourney
 - Bootstrap
 - JSON
 
@@ -76,6 +78,10 @@ You can also contribute by opening a pull request or submitting an issue.
 ## Acknowledgements
 
 [Svelte docs](https://svelte.dev/)
+
+[Svelte Email SendGrid](https://svelte-email.vercel.app/docs/integrations/sendgrid) \*Change component to template
+
+[SendGrid integration guide](https://app.sendgrid.com/guide/integrate/langs/nodejs)
 
 ## Testing
 

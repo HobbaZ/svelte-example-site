@@ -21,7 +21,7 @@
 	</p>
 
 	<ul>
-		<li><span class="bold">-</span> EmailJS for email handling</li>
+		<li><span class="bold">-</span> SendGrid for email handling</li>
 		<li>
 			<span class="bold">-</span> Spreadshirt for on demand printing, display products from Spreadshirt store on
 			site

@@ -1,5 +1,5 @@
 <script>
-	import HomepageContent from '../../components/HomepageContent.svelte';
+	import HomepageContent from '../components/HomepageContent.svelte';
 </script>
 
 <svelte:head>
@@ -10,8 +10,3 @@
 <div>
 	<HomepageContent />
 </div>
-
-
-<style>
-
-</style>

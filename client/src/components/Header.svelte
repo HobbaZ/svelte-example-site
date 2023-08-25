@@ -7,7 +7,7 @@
 <header>
 
 	<div class="mainImage">
-		<a href="/home">
+		<a href="/">
 			<img src="{logo}" alt="fat dog club logo" />
 		</a>
 	</div>
@@ -16,8 +16,8 @@
 	<nav>
 
 		<ul>
-			<li aria-current={$page.url.pathname==='/home' ? 'page' : undefined}>
-				<a href="/home">Home</a>
+			<li aria-current={$page.url.pathname==='/' ? 'page' : undefined}>
+				<a href="/">Home</a>
 			</li>
 			<li aria-current={$page.url.pathname==='/about' ? 'page' : undefined}>
 				<a href="/about">About</a>

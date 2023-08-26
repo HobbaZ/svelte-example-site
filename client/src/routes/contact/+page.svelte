@@ -1,36 +1,48 @@
 <script>
-	import SiteName from '../../components/SiteName.svelte';
+	import { siteName } from '../../components/SiteName.svelte';
+	import { onDestroy } from "svelte";
+
 	let nameInput = '';
 	let emailInput = '';
 	let subjectInput = 'Make a General Enquiry';
 	let messageInput = '';
+
+	export { emailInput, subjectInput, nameInput, siteName, messageInput };
+
 	let emailRegex =
 		/^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
 	let emailSent = false;
 	let msg;
-	/*async function sendEmail({ }) {
-
-		const response = await fetch('/emails'),
-		const msg = await response.json();
-		console.log(msg);
-	}*/
+	let timeoutId;
 
 	async function sendEmail() {
 		try {
 			const response = await fetch('/emails', {
 				method: "POST",
-				body: JSON.stringify({ emailInput }),
+				body: JSON.stringify({ emailInput, subjectInput, nameInput, siteName, messageInput }),
 				headers: {
 					"Content-Type": "application/json",
 				},
 			});
 			const msg = await response.json();
-			console.log(msg)
+			emailSent = true;
+			// Sets emailSent to false after 3 seconds
+			timeoutId = setTimeout(() => {
+				emailSent = false;
+				timeoutId = null;
+			}, 3000);
 
 		} catch (err) {
 			console.error('Error sending email:', err);
+			emailSent = false;
 		}
 	}
+
+	onDestroy(() => {
+		if (timeoutId) {
+			clearTimeout(timeoutId);
+		}
+	});
 </script>
 
 <svelte:head>
@@ -40,7 +52,7 @@
 
 <div class="text-column">
 	<h1>Get in touch with
-		<SiteName />
+		{siteName}
 	</h1>
 
 	<form on:submit={sendEmail}>
@@ -85,7 +97,7 @@
 					Make a General Enquiry
 				</option>
 				<option value="Make a Complaint">Make a Complaint</option>
-				<option value="Idea for the Website">Idea for the Website</option>
+				<option value="Share an idea or project">Share an idea or project</option>
 			</select>
 		</div>
 

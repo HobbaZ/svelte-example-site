@@ -1,12 +1,12 @@
 <script>
-    import SiteName from './SiteName.svelte'
+    import { siteName } from './SiteName.svelte'
     import Products from './Products.svelte'
 </script>
 
 <div>
 
     <h1>
-        <SiteName />
+        {siteName}
     </h1>
     <p>Your next clothing sensation</p>
 </div>

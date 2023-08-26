@@ -1,20 +1,17 @@
 <script>
 	import { page } from '$app/stores';
-	import SiteName from './SiteName.svelte';
+	import { siteName } from './SiteName.svelte';
 	let logo = '/images/Fat Dog Club Logo White Text.png'
 </script>
 
 <header>
-
 	<div class="mainImage">
 		<a href="/">
-			<img src="{logo}" alt="fat dog club logo" />
+			<img src="{logo}" alt="{siteName} logo" />
 		</a>
 	</div>
 
-
 	<nav>
-
 		<ul>
 			<li aria-current={$page.url.pathname==='/' ? 'page' : undefined}>
 				<a href="/">Home</a>
@@ -26,7 +23,6 @@
 				<a href="/contact">Contact</a>
 			</li>
 		</ul>
-
 	</nav>
 
 </header>

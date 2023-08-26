@@ -1,5 +1,5 @@
 <script>
-	import SiteName from '../../components/SiteName.svelte';
+	import { siteName } from '../../components/SiteName.svelte';
 </script>
 
 <svelte:head>
@@ -9,12 +9,12 @@
 
 <div class="text-column">
 	<h1>About
-		<SiteName />
+		{siteName}
 	</h1>
 
 	<p>
 		<span class="bold">
-			<SiteName />
+			{siteName}
 		</span> was inspired by the purchase of an expired domain from NameCheap for the pricey sum of <span
 			class="bold">$8</span>. The
 		current plan for the site is to attempt to make an apparel site by utilising:

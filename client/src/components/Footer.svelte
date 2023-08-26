@@ -1,11 +1,11 @@
 <script>
-	import SiteName from './SiteName.svelte';
+	import {siteName} from './SiteName.svelte';
 	let date = new Date().getFullYear();
 </script>
 
 <footer>
 	<p>
-		<SiteName /> Est. {date}
+		{siteName} Est. {date}
 	</p>
 	<a href="https://www.linkedin.com/in/zachary-hobba-52aaa182/" title="Zac's LinkedIn"><i class="fab fa-linkedin"></i>
 	</a>

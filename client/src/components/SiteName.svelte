@@ -1,5 +1,3 @@
-<script>
-    export let siteName = 'Fat Dog Club';
+<script context="module">
+    export const siteName = 'Fat Dog Club';
 </script>
-
-<span>{siteName}</span>

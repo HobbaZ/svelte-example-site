@@ -1,6 +1,5 @@
 <script>
     import { products } from './database.json'
-
     let filterOptions = ["Mens", "Womens", "Accessories"];
     let selectedOption;
 
